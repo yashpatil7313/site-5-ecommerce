@@ -47,12 +47,6 @@ site-5-ecommerce/
 
 ---
 
-## 🌍 Live Demo
-
-[Click Here to View Website](https://yourusername.github.io/site-5-ecommerce/)
-
----
-
 ## 💡 Learning Outcome
 
 * Learned how to build E-commerce UI
