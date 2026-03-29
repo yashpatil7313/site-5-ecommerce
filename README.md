@@ -43,7 +43,7 @@ site-5-ecommerce/
 
 > ⚠️ Make sure `preview.png` is uploaded in the same folder
 
-![E-commerce Preview](preview.png)
+![E-commerce Preview](preview5.png)
 
 ---
 
